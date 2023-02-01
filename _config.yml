@@ -9,8 +9,8 @@ name: Ngoc Dung Bui
 description: Data analytics consultant
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/NgocPic.JPG
-
+avatar: https://raw.githubusercontent.com/buind85/images/NgocPic.JPG
+#https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 #
 # Flags below are optional
 #
