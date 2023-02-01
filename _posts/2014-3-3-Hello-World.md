@@ -4,4 +4,4 @@ title: Hello world!
 ---
 
 ## This is my first post
-The following posts are following.
+The posts will be coming soon.
