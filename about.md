@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a data science enthusiast located in Montreal, Canada.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A blog to show my personal projects as a part of my portfolio.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+buind173@gmail.com
